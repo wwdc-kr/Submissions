@@ -1,0 +1,21 @@
+[submodule "2020/Make-Code-Action"]
+	path = 2020/Make-Code-Action
+	url = git@github.com:CoderLoveMath/Make-Code-Action.git
+[submodule "2020/RockPaperScissors-WWDC20"]
+	path = 2020/RockPaperScissors-WWDC20
+	url = git@github.com:mininny/RockPaperScissors-WWDC20.git
+[submodule "2020/WWDC20-SwiftStudentChallenge"]
+	path = 2020/WWDC20-SwiftStudentChallenge
+	url = git@github.com:jaesung-wwdc/WWDC20-SwiftStudentChallenge.git
+[submodule "2020/wwdc2020"]
+	path = 2020/wwdc2020
+	url = git@github.com:skull8888888/wwdc2020.git
+[submodule "2020/WWDC-2020"]
+	path = 2020/WWDC-2020
+	url = git@github.com:gbmksquare/WWDC-2020.git
+[submodule "2019/WWDC19"]
+	path = 2019/WWDC19
+	url = git@github.com:mininny/WWDC19.git
+[submodule "2018/WWDC18"]
+	path = 2018/WWDC18
+	url = https://github.com/anaclumos/WWDC18
