@@ -11,6 +11,8 @@ To view more submissions from WWDC Scholars worldwide, please look at [WWDC Stud
 | Bummo Koo     | [Yut](https://github.com/gbmksquare/WWDC-2020/tree/a95849b2de81ebff17341a958e13692a41e7cbe0) |
 | Robert Kim    | [Submission](https://github.com/skull8888888/wwdc2020/tree/7a8fd5946cf40a0a4fd6d91b4851e3048aa984a9) |
 | Minhyuk Kim   | [RockPaperScissors](https://github.com/mininny/RockPaperScissors-WWDC20/tree/42b95e562d50f93cc10782535105aad995ebf111) |
+| Minji Lee     | |
+
 ## 2019
 
 | Winner        | Project       |
