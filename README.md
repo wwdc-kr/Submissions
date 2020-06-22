@@ -1,8 +1,8 @@
-# WWDC Korean Winners Submissions
+# WWDC Korean Winners' Submissions
 
-This repository provides collection of previous WWDC Scholarship & Swift Student Challenge Korean winners' submissions.
+This repository provides a collection of previous Korean WWDC Scholarship & Swift Student Challenge winners' submissions.
 
-> **Infomration**
+> **Information**
 > To view more submissions from WWDC Scholars worldwide, please see [WWDC Students repositories](https://github.com/wwdc).
 
 ## 2020
