@@ -11,17 +11,17 @@ To view more submissions from WWDC Scholars worldwide, please look at [WWDC Stud
 | Bummo Koo     | [Yut](https://github.com/gbmksquare/WWDC-2020/tree/a95849b2de81ebff17341a958e13692a41e7cbe0) |
 | Robert Kim    | [Submission](https://github.com/skull8888888/wwdc2020/tree/7a8fd5946cf40a0a4fd6d91b4851e3048aa984a9) |
 | Minhyuk Kim   | [RockPaperScissors](https://github.com/mininny/RockPaperScissors-WWDC20/tree/42b95e562d50f93cc10782535105aad995ebf111) |
-| Minji Lee     | |
+| Minji Lee     | Code with Piano |
 
 ## 2019
 
 | Winner        | Project       |
 | ------------- |:-------------:|
-| Jaesung Lee   | |
+| Jaesung Lee   | Learing CPR in AR |
 | Minhyuk Kim   | [Environment in AR](https://github.com/mininny/WWDC19) |
 
 ## 2020
 
 | Winner        | Project       |
 | ------------- |:-------------:|
-| Sunghyun Cho  | [Submission](https://github.com/anaclumos/WWDC18) |
+| Sunghyun Cho  | [π](https://github.com/anaclumos/WWDC18) |
