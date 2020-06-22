@@ -1,6 +1,9 @@
-This repository is a collection of previous WWDC Scholars' submissions.
+# WWDC Korean Winners Submissions
 
-To view more submissions from WWDC Scholars worldwide, please look at [WWDC Students](https://github.com/wwdc) repositories.
+This repository provides collection of previous WWDC Scholarship & Swift Student Challenge Korean winners' submissions.
+
+> **Infomration**
+> To view more submissions from WWDC Scholars worldwide, please see [WWDC Students repositories](https://github.com/wwdc).
 
 ## 2020
 
@@ -20,7 +23,7 @@ To view more submissions from WWDC Scholars worldwide, please look at [WWDC Stud
 | Jaesung Lee   | Learning CPR in AR |
 | Minhyuk Kim   | [Environment in AR](https://github.com/mininny/WWDC19) |
 
-## 2020
+## 2018
 
 | Winner        | Project       |
 | ------------- |:-------------:|
