@@ -17,7 +17,7 @@ To view more submissions from WWDC Scholars worldwide, please look at [WWDC Stud
 
 | Winner        | Project       |
 | ------------- |:-------------:|
-| Jaesung Lee   | Learing CPR in AR |
+| Jaesung Lee   | Learning CPR in AR |
 | Minhyuk Kim   | [Environment in AR](https://github.com/mininny/WWDC19) |
 
 ## 2020
