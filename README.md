@@ -5,6 +5,13 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 > **Information**
 > To view more submissions from WWDC Scholars worldwide, please see [WWDC Students repositories](https://github.com/wwdc).
 
+## 2021
+
+| Winner        | Project       |
+| ------------- |:-------------:|
+| Lee Jaeho  | [Make RhythmGame](https://github.com/jaeho0718/WWDC2021_Student_Challenge) |
+
+
 ## 2020
 
 | Winner        | Project       |
