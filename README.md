@@ -10,6 +10,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | Winner        | Project       |
 | ------------- |:-------------:|
 | Lee Jaeho  | [Make RhythmGame](https://github.com/jaeho0718/WWDC2021_Student_Challenge) |
+| Sungjin Yang | [Swift For Everyone](https://github.com/RedoC-github/Swift-For-Everyone) |
 
 
 ## 2020
