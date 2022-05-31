@@ -4,6 +4,12 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 
 > **Information**
 > To view more submissions from WWDC Scholars worldwide, please see [WWDC Students repositories](https://github.com/wwdc).
+## 2022
+
+| Winner        | Project       |
+| ------------- |:-------------:|
+| BonSung Koo  | [Colors](https://github.com/terry-koo/WWDC_Colors_SwiftUI) |
+
 
 ## 2021
 
