@@ -9,6 +9,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | Winner        | Project       |
 | ------------- |:-------------:|
 | BonSung Koo  | [Colors](https://github.com/terry-koo/WWDC_Colors_SwiftUI) |
+| Deafun Choi  | [Asteroid+](https://github.com/ChoiysApple/Asteroids-Plus) |
 | Gaeun Lee  | [Emotion Point](https://github.com/rriver2/WWDC--Ep-) |
 
 
