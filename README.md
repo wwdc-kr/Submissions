@@ -45,5 +45,5 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 ## 2018
 
 | Winner        | Project       |
-| ------------- |:-------------:|ㅡ 
+| ------------- |:-------------:|
 | Sunghyun Cho  | [π](https://github.com/anaclumos/WWDC18) |
