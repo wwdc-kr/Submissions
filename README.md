@@ -12,7 +12,8 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | Deafun Choi  | [Asteroid+](https://github.com/ChoiysApple/Asteroids-Plus) |
 | Gaeun Lee  | [Emotion Point](https://github.com/rriver2/WWDC--Ep-) |
 | Taekhwan Han | [MedicineReminder](https://github.com/TaekH/WWDC22_MedicineReminder) |
-| Chanhee Jeong | [What's PII](https://github.com/chaneeii/WWDC22_WhatsPII)
+| Chanhee Jeong | [What's PII](https://github.com/chaneeii/WWDC22_WhatsPII)  |
+| Juhwa Lee | [Hangeul Puzzle](https://github.com/Juhwa-Lee1023/Hangeul)  |
 
 
 ## 2021
