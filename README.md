@@ -4,6 +4,14 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 
 > **Information**
 > To view more submissions from WWDC Scholars worldwide, please see [WWDC Students repositories](https://github.com/wwdc).
+## 2023
+
+| Winner        | Project       |
+| ------------- |:-------------:|
+| YongBeom Kwak  | [EcoGuardian](https://github.com/yongbeomkwak/EcoGuardian-WWDC) |
+
+
+
 ## 2022
 
 | Winner        | Project       |
