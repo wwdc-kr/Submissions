@@ -4,11 +4,18 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 
 > **Information**
 > To view more submissions from WWDC Scholars worldwide, please see [WWDC Students repositories](https://github.com/wwdc).
+## 2023
+
+| Winner        | Project       |
+| ------------- |:-------------:|
+| Bonsung Koo  | [Neurorise](https://github.com/terry-koo/WWDC23_Neurorise) |
+
+
 ## 2022
 
 | Winner        | Project       |
 | ------------- |:-------------:|
-| BonSung Koo  | [Colors](https://github.com/terry-koo/WWDC_Colors_SwiftUI) |
+| Bonsung Koo  | [Colors](https://github.com/terry-koo/WWDC22_Colors) |
 | Deafun Choi  | [Asteroid+](https://github.com/ChoiysApple/Asteroids-Plus) |
 | Gaeun Lee  | [Emotion Point](https://github.com/rriver2/WWDC--Ep-) |
 | Taekhwan Han | [MedicineReminder](https://github.com/TaekH/WWDC22_MedicineReminder) |
