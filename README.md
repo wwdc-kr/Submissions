@@ -8,6 +8,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 
 | Winner        | Project       |
 | ------------- |:-------------:|
+| YongBeom Kwak  | [EcoGuardian](https://github.com/yongbeomkwak/EcoGuardian-WWDC) |
 | Bonsung Koo  | [Neurorise](https://github.com/terry-koo/WWDC23_Neurorise) |
 
 
