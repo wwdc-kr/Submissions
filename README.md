@@ -11,7 +11,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | YongBeom Kwak  | [EcoGuardian](https://github.com/yongbeomkwak/EcoGuardian-WWDC) |
 | Bonsung Koo  | [Neurorise](https://github.com/terry-koo/WWDC23_Neurorise) |
 | Woowon Kang  | [SetupTennisRacket](https://github.com/mosiccan/setup-tennis-racket) |
-| Bum Tae Yoon | [Interval Fairy](https://githun.com/ayaysir/Interval-Fairy) |
+| Bum Tae Yoon | [Interval Fairy](https://github.com/ayaysir/Interval-Fairy) |
 
 
 ## 2022
