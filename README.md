@@ -12,6 +12,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | Bonsung Koo  | [Neurorise](https://github.com/terry-koo/WWDC23_Neurorise) |
 | Woowon Kang  | [SetupTennisRacket](https://github.com/mosiccan/setup-tennis-racket) |
 | Bum Tae Yoon | [Interval Fairy](https://github.com/ayaysir/Interval-Fairy) |
+| Ungjae Lee  | [DropUI](https://github.com/NuPlay/DropUI) |
 
 
 ## 2022
