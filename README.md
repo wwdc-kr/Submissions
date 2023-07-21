@@ -13,6 +13,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | Woowon Kang  | [SetupTennisRacket](https://github.com/mosiccan/setup-tennis-racket) |
 | Bum Tae Yoon | [Interval Fairy](https://github.com/ayaysir/Interval-Fairy) |
 | Ungjae Lee  | [DropUI](https://github.com/NuPlay/DropUI) |
+| Seokho Lee  | [Allergist](https://github.com/Mercen-Lee/Allergist) |
 
 
 ## 2022
