@@ -1,4 +1,4 @@
-# WWDC Korean Winners' Submissions
+# 🇰🇷Korean WWDC Scholars & Swift Student Challenge Winners' Submissions
 
 This repository provides a collection of previous Korean WWDC Scholarship & Swift Student Challenge winners' submissions.
 
