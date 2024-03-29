@@ -4,6 +4,13 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 
 > **Information**
 > To view more submissions from WWDC Scholars worldwide, please see [WWDC Students repositories](https://github.com/wwdc).
+## 2024
+
+| Winner        | Project       |
+| ------------- |:-------------:|
+| Seokho Lee  | [App Pilot](https://github.com/Mercen-Lee/App-Pilot) |
+
+
 ## 2023
 
 | Winner        | Project       |
