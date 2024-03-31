@@ -9,6 +9,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | Winner        | Project       |
 | ------------- |:-------------:|
 | Seokho Lee  | [App Pilot](https://github.com/Mercen-Lee/App-Pilot) |
+| Yuseong Nam  | [MyotSiYa](https://github.com/99yuseong/myot-si-ya) |
 
 
 ## 2023
