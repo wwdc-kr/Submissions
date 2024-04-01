@@ -23,6 +23,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | Ungjae Lee  | [DropUI](https://github.com/NuPlay/DropUI) |
 | Seokho Lee  | [Allergist](https://github.com/Mercen-Lee/Allergist) |
 | Yujin Lee  | [World Hunter](https://github.com/yujinnee/WorldHunter) |
+| Myung Geun Choi  | [Earth Debugger](https://github.com/mgdgc/earth-debugger) |
 
 
 ## 2022
