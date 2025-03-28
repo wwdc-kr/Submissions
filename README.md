@@ -5,6 +5,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 > **Information**
 > To view more submissions from WWDC Scholars worldwide, please see [WWDC Students repositories](https://github.com/wwdc).
 ## 2025
+
 | Winner        | Project       |
 | ------------- |:-------------:|
 | Kanghyun Lee  | [Zoom In Universe](https://github.com/hhhello0507/Zoom-In-Universe) |
