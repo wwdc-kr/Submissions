@@ -9,6 +9,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | Winner        | Project       |
 | ------------- |:-------------:|
 | Kanghyun Lee  | [Zoom In Universe](https://github.com/hhhello0507/Zoom-In-Universe) |
+| Minjae Lee | [Eolssu](https://github.com/mini-min/Eolssu) |
 
 
 ## 2024
