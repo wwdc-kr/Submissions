@@ -10,7 +10,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 | ------------- |:-------------:|
 | Kanghyun Lee  | [Zoom In Universe](https://github.com/hhhello0507/Zoom-In-Universe) |
 | Minjae Lee | [Eolssu](https://github.com/mini-min/Eolssu) |
-
+| Seongil Yeo | [Lost in Letters](https://github.com/YeoSeongil/Lost-in-Letters) |
 
 ## 2024
 
