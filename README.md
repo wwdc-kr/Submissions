@@ -72,7 +72,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 
 | Winner        | Project       |
 | ------------- |:-------------:|
-| Jaesung Lee   | Learning CPR in AR |
+| Jaesung Lee   | [Learning CPR in AR](https://github.com/x-0o0/WWDC19-Jaesung) |
 | Minhyuk Kim   | [Environment in AR](https://github.com/mininny/WWDC19) |
 
 ## 2018
