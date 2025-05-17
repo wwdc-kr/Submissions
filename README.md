@@ -3,11 +3,19 @@
 This repository provides a collection of previous Korean WWDC Scholarship & Swift Student Challenge winners' submissions.
 
 > **Information**
+> 
 > To view more submissions from WWDC Scholars worldwide, please see [WWDC Students repositories](https://github.com/wwdc).
+
+
+> **위너분께 알립니다**
+> 
+> Project 란에는 소스코드 외에도 영상, 블로그 등 수상작에 대해서 보여줄 수 있는 모든 링크가 가능합니다.
+
+
 ## 2025
 
 | Winner        | Project       |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | Kanghyun Lee  | [Zoom In Universe](https://github.com/hhhello0507/Zoom-In-Universe) |
 | Minjae Lee | [Eolssu](https://github.com/mini-min/Eolssu) |
 | Dongwon Seo | [Signy Play](https://github.com/HappyDoran/Signy-Play) |
@@ -17,7 +25,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 ## 2024
 
 | Winner        | Project       |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | Seokho Lee  | [App Pilot](https://github.com/Mercen-Lee/App-Pilot) |
 | Yuseong Nam  | [MyotSiYa](https://github.com/99yuseong/myot-si-ya) |
 
@@ -25,7 +33,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 ## 2023
 
 | Winner        | Project       |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | YongBeom Kwak  | [EcoGuardian](https://github.com/yongbeomkwak/EcoGuardian-WWDC) |
 | Bonsung Koo  | [Neurorise](https://github.com/terry-koo/WWDC23_Neurorise) |
 | Woowon Kang  | [SetupTennisRacket](https://github.com/mosiccan/setup-tennis-racket) |
@@ -39,7 +47,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 ## 2022
 
 | Winner        | Project       |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | Bonsung Koo  | [Colors](https://github.com/terry-koo/WWDC22_Colors) |
 | Deagun Choi  | [Asteroid+](https://github.com/ChoiysApple/Asteroids-Plus) |
 | Gaeun Lee  | [Emotion Point](https://github.com/rriver2/WWDC--Ep-) |
@@ -52,7 +60,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 ## 2021
 
 | Winner        | Project       |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | Lee Jaeho  | [Make RhythmGame](https://github.com/jaeho0718/WWDC2021_Student_Challenge) |
 | Sungjin Yang | [Swift For Everyone](https://github.com/RedoC-github/Swift-For-Everyone) |
 
@@ -60,7 +68,7 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 ## 2020
 
 | Winner        | Project       |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | Sungjin Yang  | [Make, Code, Action](https://github.com/RedoC-github/Make-Code-Action) |
 | Jaesung Lee   | [Taekwondo@Home](https://github.com/x-0o0/Taekwondo-at-Home) |
 | Bummo Koo     | [Yut](https://github.com/gbmksquare/WWDC-2020/tree/a95849b2de81ebff17341a958e13692a41e7cbe0) |
@@ -71,12 +79,12 @@ This repository provides a collection of previous Korean WWDC Scholarship & Swif
 ## 2019
 
 | Winner        | Project       |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | Jaesung Lee   | [Learning CPR in AR](https://github.com/x-0o0/WWDC19-Jaesung) |
 | Minhyuk Kim   | [Environment in AR](https://github.com/mininny/WWDC19) |
 
 ## 2018
 
 | Winner        | Project       |
-| ------------- |:-------------:|
+| ------------- | ------------- |
 | Sunghyun Cho  | [π](https://github.com/anaclumos/WWDC18) |
